@@ -51,7 +51,7 @@
   requirements: |
     Пользователь должен иметь возможность просматривать товары и просматривать
     подробную информацию о товаре.
-  prerequisites: >
+  prerequisites: |
     Открыта главная страница магазина. (https://hexlet-products-store.vercel.app)
   test-data: |
     no-data
@@ -95,7 +95,7 @@
     Проверка возможности поиска товаров в указанном ценовом диапазоне.
   requirements: |
     Пользователь должен иметь возможность фильтровать товары по стоимости.
-  prerequisites: >
+  prerequisites: |
     Открыта главная страница магазина. (https://hexlet-products-store.vercel.app)
   test-data: |
     no-data
