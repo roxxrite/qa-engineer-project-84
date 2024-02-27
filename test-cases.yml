@@ -4,7 +4,7 @@
   requirements: |
     Пользователь должен иметь возможность искать товары по ключевому
     слову или категории.
-  prerequisites: |
+  prerequisites:|
     Открыта главная страница магазина. (https://hexlet-products-store.vercel.app)
   test-data: |
     no-data
@@ -20,7 +20,7 @@
     Проверка фильтрации товаров по категориям.
   requirements: |
     Пользователь должен иметь возможность фильтровать товары.
-  prerequisites: |
+  prerequisites:|
     Открыта главная страница магазина. (https://hexlet-products-store.vercel.app)
   test-data: |
     no-data
