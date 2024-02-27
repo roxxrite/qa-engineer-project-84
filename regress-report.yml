@@ -50,7 +50,7 @@ bugreports:
     steps-to-reproduce: |
       - Открыть главную страницу магазина (https://products-store-git-v2bugfixes-hexlet-components.vercel.app).
       - Открыть список категорий товара.
-      - Выбрать любую из указанных категорий.
+      - Выбрать любую категорию (например, smartphones).
       - Повторно открыть список категорий товара.
       - Нажать на пустую строку.
     expected-result: |
