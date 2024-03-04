@@ -18,7 +18,7 @@
   environment: |
     Opera GX LVL5 (core: 106.0.4998.76)
     ОС Windows 11 64-bit
-  steps-to-reproduce: >
+  steps-to-reproduce: |
     - Открыть главную страницу магазина. (https://hexlet-products-store.vercel.app)
     - Открыть меню выбора языка интерфейса.
   expected-result: |
@@ -30,7 +30,7 @@
     Плывет верстка страницы при просмотре магазина с мобильных устройств.
   environment: |
     iPhone SE
-  steps-to-reproduce: >
+  steps-to-reproduce: |
     - Открыть главную страницу магазина на мобильном устройстве. (https://hexlet-products-store.vercel.app)
   expected-result: |
     Страница магазина адаптирована под просмотр с мобильных устройств
@@ -43,7 +43,7 @@
   environment: |
     Opera GX LVL5 (core: 106.0.4998.76)
     ОС Windows 11 64-bit
-  steps-to-reproduce: >
+  steps-to-reproduce: |
     - Открыть главную страницу магазина. (https://hexlet-products-store.vercel.app)
     - Открыть список с категориями товара.
     - Перейти на следующую страницу.
@@ -75,7 +75,7 @@
   environment: |
     Google Chrome Версия 122.0.6261.69 (Официальная сборка), (64 бит)
     ОС Windows 11 64-bit
-  steps-to-reproduce: >
+  steps-to-reproduce: |
     - Открыть главную страницу магазина. (https://hexlet-products-store.vercel.app)
     - Добавить любой товар в корзину, например, iPhone 9.
     - Перейти в корзину и нажать "Оформить заказ".
