@@ -53,3 +53,11 @@
 ![Screenshot_4](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/85b5fe49-4096-4551-aa49-d9bf4ee54a40)
 ![Screenshot_3](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/5f2d9568-7f9d-4f0e-b581-46591d425e78)
 
+Скриншоты для баг-репорта "При выборе категории и нерелевантной ей бренду не появляется окно об ошибке."
+![Screenshot_4](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/50769890-649c-47d4-93b3-4252b8c7d52f)
+![Screenshot_3](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/25d9496f-3289-460b-af43-516a0cc37caf)
+![Screenshot_2](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/0ed5b26c-16db-4164-9811-f14bfb57a841)
+![Screenshot_1](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/b8afcd92-3b7b-4471-81d8-fa7113122ce0)
+
+Скриншоты для баг-репорта "Не появляется окно об ошибке при поиске товара с несуществующим названием."
+![Screenshot_1](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/c12a036f-3ace-4a4f-9d3e-a5ea07363d55)
