@@ -1,4 +1,5 @@
-Скриншоты для баг-репорта "Не меняется полностью язык интерфейса с английского на русский."
+
+![Screenshot_4](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/ea87fb80-ff69-4af7-914d-89b9e44cefde)Скриншоты для баг-репорта "Не меняется полностью язык интерфейса с английского на русский."
 ![bugreport1-ss3](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/02fdac54-eda8-4de4-834b-76a7b5ee4052)![bugreport1-ss-1](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/1960b8a7-a1a1-44c0-8c45-07729791dd85)
 ![bugreport1-ss2](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/1d206a3e-5b95-4425-a307-b70f4dde383e)
 
@@ -37,4 +38,18 @@
 ![Screenshot_8](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/393c6da4-33ff-4512-bb8c-e4c333fea0a8)
 ![Screenshot_9](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/5933e40e-8d8f-464e-9d6d-8e6a8b3d7685)
 
+Скриншоты для баг-репорта "Не открывается страницы оплаты при оформлении заказа."
+![Screenshot_4](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/a56673dd-4b80-429d-bbf7-958330b37e4f)
+![Screenshot_3](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/59b7ca5f-315e-4ace-b9c3-d280b51c0f29)
+![Screenshot_2](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/04a4d403-e13d-4ea9-b381-a23b4a42658a)
+![Screenshot_1](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/c5f87456-7473-455c-8174-1ddb49b92ac6)
+
+Скриншоты для баг-репорта "Некорректное отображение товара при выставлении ценового диапазона."
+![Screenshot_2](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/52713df9-e35a-4db8-a27a-51e219e7ffe0)
+![Screenshot_1](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/6dcfd3c2-2228-4b3e-9400-4d0569e12218)
+
+Скриншоты для баг-репорта "Не открывается страница с товарами в категории, при нажатии на соответствующий хэштег в карточке товара."
+![Screenshot_5](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/aefde21e-f2cc-4d3c-842a-7ec179755edc)
+![Screenshot_4](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/85b5fe49-4096-4551-aa49-d9bf4ee54a40)
+![Screenshot_3](https://github.com/roxxrite/qa-engineer-project-84/assets/158052302/5f2d9568-7f9d-4f0e-b581-46591d425e78)
 
